@@ -1,0 +1,7 @@
+-- LWES --
+1 ) to execute the chat you sould be exeute node server.js in the folder chat 
+2 ) to execute the socket server for to do list just go to server i exeucte
+3 ) to exeute the meet go to the voicee folder and type in the terminal npm run dev
+4) to run the whitebourd go to white folder and type node server.js
+-- BY WASSIM --
+Enjoy !!!!!!!

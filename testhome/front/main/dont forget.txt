@@ -1,0 +1,2 @@
+execute the nodejs serveur first 
+after that execute the voice api 
